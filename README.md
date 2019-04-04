@@ -2,10 +2,10 @@
 The aim of this project is to develope a 1D-Pong-Game using a microcontoller as the heart of the system.
 
 ## Requirements ##
-- [] Solder Iron
+- [ ] Solder Iron
 - [x] Cable/ Jumper
 - [x] Microcontroller
-- [] Led Strip/ LED with a shift-reg
+- [ ] Led Strip/ LED with a shift-reg
 - [x] 2x Buttons
 - [x] 1x Buzzer
 - [x] Seven-Segmetn-Dispaly
@@ -36,6 +36,6 @@ Also an 1/O switch for  Turning the whole system on and of.
 | DATE      | STATUS      |
 | --------- | ----------- |
 | 04.04.2019| Project Init|
-|||
-|||
-|||
+|| Musts|
+|| Shoulds|
+|| Nice-to-haves|
