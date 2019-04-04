@@ -1,5 +1,5 @@
 # 1D-Pong
-The aim of this project is to develope a 1D-Pong-Game using a microcontoller as the heart of the system.
+The aim of this project is to develop a 1D-Pong-Game using a microcontoller as the heart of the system.
 
 ## Requirements ##
 - [ ] Solder Iron
@@ -12,24 +12,24 @@ The aim of this project is to develope a 1D-Pong-Game using a microcontoller as 
 
 ## Spec ##
 ### Musts ###
-The System consists of a microcontroler for the main callculation and the driving of the peripheral elements
+The System consists of a microcontroller as the main processor and controller of the peripherials.
 
-There must be a LED strip which displays the playing field. 
-  -Red:     point-zone
-  -Yellow:  Hit-zone
-  -Green:   Free-zone
+An LED strip which displays the playing field.
+  -Red:     Point zone
+  -Yellow:  Hit zone
+  -Green:   Free zone
   
-There must be two buttons one for each player. This schould be pressed when the ball is in the players Hit-zone.
+Two buttons, one for each player. The player has to press the button when the "ball" reaches the hit zone, in order to send the ball back to their opponent.
 
-There must be a Seven-Seg Display displaying the current score.
+A seven-segment display showing the current score.
 
 ### Shoulds ###
-There should be a buzzer highlighting events like the starting, hitting, scoring and winning.
+There should be a buzzer highlighting events like the starting of the game, hitting of the ball, scoring and winning.
 
 
-### Nice to haves ###
-It would be nice if the system could be semi-portable e.g. Computer not needed but an AC supply.
-Also an 1/O switch for  Turning the whole system on and of.
+### Nice-to-haves ###
+It would be nice if the system was semi-portable e.g. a computer isn't needed but only an AC supply.
+Also an I/O switch for turning the whole system on and off.
  
 ## Status Date ##
 
