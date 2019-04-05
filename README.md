@@ -41,12 +41,11 @@ GND:
 The System consists of a microcontroller as the main processor and controller of the peripherials.
 
 An 16 LEDs which displays the playing field.
-  -Red:     Point zone
-  -Yellow:  Hit zone
-  -Green:   Free zone
-  _________________________________________________________________
+  - Red:     Point zone
+  - Yellow:  Hit zone
+  - Green:   Free zone
+  
   | R | Y | Y | Y | G | G | G | G | G | G | G | G | Y | Y | Y | R |
-  -----------------------------------------------------------------
   
 Two buttons, one for each player. The player has to press the button when the "ball" reaches the hit zone, in order to send the ball back to their opponent.
 
