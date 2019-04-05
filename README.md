@@ -2,22 +2,51 @@
 The aim of this project is to develop a 1D-Pong-Game using a microcontoller as the heart of the system.
 
 ## Requirements ##
-- [ ] Solder Iron
+- [x] Solder Iron
 - [x] Cable/ Jumper
-- [x] Microcontroller
-- [ ] Led Strip/ LED with a shift-reg
+- [x] Microcontroller (atleast 11 GPIO)
+- [x] 2x Led red
+- [x] 8x Led green
+- [x] 6x Led yellow
+- [ ] 4x Shift register (CD74HCT164E)
 - [x] 2x Buttons
 - [x] 1x Buzzer
 - [x] Seven-Segmetn-Dispaly
+- [x] Resistors (many)
 
+## Pins distribution ##
+Score Display:
+  - 4 Pins for the shift regs (clk1, clk2, AB1, AB2)
+  
+Field Display:
+  - 3 Pins for the shift regs
+
+1 Pin for the buzzer
+
+2 Pins for the buttons
+
++5V:
+  - Shift-regs (Clr, VCC)
+  - Buttons
+
+GND:
+  - Shift-regs
+  - all LEDs
+  - Seven-seg
+  - buzzer
+  - pull down of the buttons
+  
 ## Spec ##
 ### Musts ###
 The System consists of a microcontroller as the main processor and controller of the peripherials.
 
-An LED strip which displays the playing field.
+An 16 LEDs which displays the playing field.
   -Red:     Point zone
   -Yellow:  Hit zone
   -Green:   Free zone
+  _________________________________________________________________
+  | R | Y | Y | Y | G | G | G | G | G | G | G | G | Y | Y | Y | R |
+  -----------------------------------------------------------------
   
 Two buttons, one for each player. The player has to press the button when the "ball" reaches the hit zone, in order to send the ball back to their opponent.
 
