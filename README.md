@@ -62,8 +62,8 @@ Also an I/O switch for turning the whole system on and off.
  
 ## Status Date ##
 
-| DATE      | STATUS      |
-| --------- | ----------- |
+| DATE      | MILESTONES|
+| --------- | --------- |
 | 04.04.2019| Project Init|
 | 11.04.2019| Got the all components|
 || Create the Schematic|
