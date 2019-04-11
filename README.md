@@ -8,7 +8,7 @@ The aim of this project is to develop a 1D-Pong-Game using a microcontoller as t
 - [x] 2x Led red
 - [x] 8x Led green
 - [x] 6x Led yellow
-- [ ] 4x Shift register (CD74HCT164E)
+- [x] 4x Shift register (CD74HCT164E)
 - [x] 2x Buttons
 - [x] 1x Buzzer
 - [x] Seven-Segmetn-Dispaly
@@ -65,6 +65,9 @@ Also an I/O switch for turning the whole system on and off.
 | DATE      | STATUS      |
 | --------- | ----------- |
 | 04.04.2019| Project Init|
-|| Musts|
-|| Shoulds|
-|| Nice-to-haves|
+| 11.04.2019| Got the all components|
+|| Create the Schematic|
+||Designe the casing|
+|| DEvelope prototype|
+|| Print the casing|
+||Finalize the Product|
