@@ -11,7 +11,7 @@ The aim of this project is to develop a 1D-Pong-Game using a microcontoller as t
 - [x] 4x Shift register (CD74HCT164E)
 - [x] 2x Buttons
 - [x] 1x Buzzer
-- [x] Seven-Segmetn-Dispaly
+- [x] Seven-Segment-Dispaly
 - [x] Resistors (many)
 
 ## Pins distribution ##
