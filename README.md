@@ -80,7 +80,8 @@ Also an I/O switch for turning the whole system on and off.
 | Length | 3.6 cm |
 | width | 1.8 cm |
 | Number of Pins | 12 |
-| Pin distance | 2.5mm | 
+| Pin distance | 2.5mm |
+| - | - |
 
 | PIN   | CONNECTION|
 | --------- | --------- |
