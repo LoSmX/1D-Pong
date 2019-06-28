@@ -71,3 +71,35 @@ Also an I/O switch for turning the whole system on and off.
 || DEvelope prototype|
 || Print the casing|
 ||Finalize the Product|
+
+## Messurements and Pinouts ##
+
+### Display ###
+
+|Model | Common Anode|
+|Length | 3.6 cm|
+|width | 1.8 cm|
+|Number of Pins | 12|
+|Pin distance | 2.5mm| 
+
+| PIN   | CONNECTION|
+| --------- | --------- |
+| 0 | E |
+| 1 | D |
+| 2 | DP |
+| 3 | C |
+| 4 | G |
+| 5 | NC |
+| 6 | B |
+| 7 | K3 |
+| 8 | K2 |
+| 9 | F |
+| 10 | A |
+| 11 | K1 | 
+
+### Buttons ###
+Pin distance  = 0.5 mm
+
+### LED ###
+Pin distance  = 0.2 mm
+Number = 16
