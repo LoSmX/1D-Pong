@@ -75,6 +75,8 @@ Also an I/O switch for turning the whole system on and off.
 ## Messurements and Pinouts ##
 
 ### Display ###
+
+| - | - |
 | Model | Common Anode |
 | Length | 3.6 cm |
 | width | 1.8 cm |
